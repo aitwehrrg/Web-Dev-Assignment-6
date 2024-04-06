@@ -1,9 +1,9 @@
 # Web Dev Project
 ---
-##### -Aim: IMDB Rating for Video Games
+##### -Aim: IGDB Showcase Site for Video Games
 
 ##### Theory:
-A clone of the IMDB rating site for Games.
+A clone of IGDB.
 
 ###### Tech Stack:
 1. HTML
@@ -15,3 +15,4 @@ A clone of the IMDB rating site for Games.
 
 ##### References:
 * [https://www.imdb.com/list/ls097840768/?sort=user_rating%2Casc](https://www.imdb.com/list/ls097840768/?sort=user_rating%2Casc)
+* https://www.igdb.com/top-100/anticipated
