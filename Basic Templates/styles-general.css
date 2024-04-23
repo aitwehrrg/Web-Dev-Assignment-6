@@ -28,6 +28,7 @@ header{
     /* Position Properties */
     position: sticky;
     top: 0%;
+    z-index: 1;
 
     /* Colour Properties */
     background-color: var(--color-bittersweet);
