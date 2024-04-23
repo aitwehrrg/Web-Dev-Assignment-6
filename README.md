@@ -7,9 +7,9 @@ A clone of IGDB.
 
 ###### Tech Stack:
 1. HTML
-1. CSS
-1. JavaScript
-1. MongoDB
+2. CSS
+3. JavaScript
+4. MongoDB
 
 ##### Future Scope:
 
