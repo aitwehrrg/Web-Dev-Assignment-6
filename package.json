@@ -8,7 +8,6 @@
   "description": "---\r ##### -Aim: IGDB Showcase Site for Video Games",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
