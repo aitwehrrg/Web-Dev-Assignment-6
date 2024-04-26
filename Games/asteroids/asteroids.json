@@ -1,0 +1,11 @@
+{
+  "title": "Asteroids",
+  "developer": "Aditya Pachade",
+  "publisher": "Aditya Pachade",
+  "platforms": ["WebGL"],
+  "release_date": "2024-04-19",
+  "genre": ["Shoot-em-up", "Arcade", "Indie"],
+  "modes": ["Single-player"],
+  "description": "In this action-packed space adventure, players find themselves navigating through a perilous asteroid field in their spacecraft. With fast-paced gameplay and stunning visuals, players embark on an adrenaline-fueled journey through the cosmos, navigating the asteroid field's dangers at every turn.",
+  "website": "https://megalord1977.github.io/Asteroids-VideoGame/"
+}

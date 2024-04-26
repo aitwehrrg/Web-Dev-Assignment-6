@@ -1,0 +1,11 @@
+{
+  "title": "Celeste",
+  "developer": "Maddy Makes Games (Matt Makes Games)",
+  "publisher": "Maddy Makes Games (Matt Makes Games)",
+  "platforms": ["Windows", "macOS", "Linux", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+  "release_date": "2018-01-25",
+  "genre": ["Platformer", "Indie"],
+  "modes": ["Single-player"],
+  "description": "Celeste is a challenging platformer that follows the journey of Madeline, a young woman determined to climb the eponymous Celeste Mountain. Along the way, players must navigate through a series of increasingly difficult levels filled with spikes, hazards, and other obstacles. The game's tight controls, pixel-perfect platforming, and heartfelt story about overcoming personal struggles have earned it widespread critical acclaim.",
+  "website": "https://celeste-game.com/"
+}

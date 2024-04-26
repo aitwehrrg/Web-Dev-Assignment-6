@@ -1,0 +1,11 @@
+{
+  "title": "Deltarune",
+  "developer": "Toby Fox",
+  "publisher": "Toby Fox",
+  "platforms": ["Windows", "macOS", "Linux", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+  "release_date": "Chapter 1: 2018-10-31",
+  "genre": ["Role-playing", "Indie"],
+  "modes": ["Single-player"],
+  "description": "Deltarune is a role-playing video game created by Toby Fox, the creator of Undertale. The game follows a similar style and tone as Undertale and features turn-based combat, exploration, and decision-making that impacts the story. Deltarune is released episodically, with Chapter 1 being available for free and subsequent chapters planned for release. The game features a charming cast of characters, engaging storytelling, and a unique blend of humor and emotional depth.",
+  "website": "https://www.deltarune.com/"
+}
