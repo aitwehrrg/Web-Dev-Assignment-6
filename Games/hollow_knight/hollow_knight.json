@@ -1,0 +1,11 @@
+{
+  "title": "Hollow Knight",
+  "developer": "Team Cherry",
+  "publisher": "Team Cherry",
+  "platforms": ["Windows", "macOS", "Linux", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+  "release_date": "2017-02-24",
+  "genre": ["Metroidvania", "Platformer"],
+  "modes": ["Single-player"],
+  "description": "Hollow Knight is a challenging, beautiful action-adventure game set in the vast, interconnected underground kingdom of Hallownest. Explore twisting caverns, ancient cities, and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom's heart.",
+  "website": "https://hollowknight.com/"
+}
