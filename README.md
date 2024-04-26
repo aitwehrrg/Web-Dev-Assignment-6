@@ -9,6 +9,7 @@ A clone of IGDB.
 1. HTML
 1. CSS
 1. JavaScript
+2. Node.JS
 1. MongoDB
 
 ##### Future Scope:
