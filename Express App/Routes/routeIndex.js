@@ -6,6 +6,6 @@ const routingGame = express();
 
 routingHome.get("/", getHomeHandler());
 
-routingGame.get("/:varGame", getGameHandler());
+routingGame.get("/", getGameHandler());
 
 module.exports = { routingHome, routingGame };

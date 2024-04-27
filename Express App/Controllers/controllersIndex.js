@@ -1,8 +1,9 @@
-const { GAME } =  require("../Models/modelsIndex.js");
+// const { GAME } =  require("../Models/modelsIndex.js");
 
 function getHomeHandler(){
     const method = (req, res) => {
-        res.write("Home Page");
+        console.log("Home Page");
+        res.render("index", { numCards: 20 });
         res.end();
     }
     return method;
@@ -10,8 +11,8 @@ function getHomeHandler(){
 
 function getGameHandler(){
     const method = (req, res) => {
-        const gameName = req.params.varGame;
-        res.write(`Game Page for Game: ${gameName}`);
+        console.log("Game Page");
+        res.render("game-name");
         res.end();
     }
     return method;
