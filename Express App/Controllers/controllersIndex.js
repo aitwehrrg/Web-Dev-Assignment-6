@@ -1,4 +1,4 @@
-// const { GAME } =  require("../Models/modelsIndex.js");
+const { GAME } =  require("../Models/modelsIndex.js");
 
 function getHomeHandler(){
     const method = (req, res) => {
