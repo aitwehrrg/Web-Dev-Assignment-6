@@ -1,9 +1,9 @@
-const { GAME } =  require("../Models/modelsIndex.js");
+const { getCardsHandler } = require("./controllerInfo");
 
 function getHomeHandler(){
     const method = (req, res) => {
         console.log("Home Page");
-        res.render("index", { numCards: 20 });
+        res.render("index", { numCards: 20 , gamesInfo: req.gamesInfo});
         res.end();
     }
     return method;
@@ -18,4 +18,4 @@ function getGameHandler(){
     return method;
 }
 
-module.exports = { getHomeHandler, getGameHandler };
+module.exports = { getHomeHandler, getGameHandler, getCardsHandler };
