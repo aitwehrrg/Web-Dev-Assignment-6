@@ -9,7 +9,7 @@ function handleClickingCard(url){
 
 // URL must be received from the Database
 // const url = "";
-const rerouteToXYZ = handleClickingCard("/game/");
+const rerouteToXYZ = handleClickingCard("/game");
 
 cardArray.forEach((card) => {
     //console.log("Added Event Listener");
