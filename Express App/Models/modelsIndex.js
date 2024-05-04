@@ -47,7 +47,14 @@ const gameSchema = new mongoose.Schema({
 
     website: {
         type: String
-    }
+    },
+
+    images: [
+        {
+            type: String,
+            required: true
+        }
+    ]
 })
 
 const gameModel = mongoose.model("GAME", gameSchema);
