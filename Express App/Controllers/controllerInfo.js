@@ -6,6 +6,7 @@ function getCardsHandler(){
         if(gamesInfo){
             console.log("Succesfully got information about games");
         }
+        req.gamesInfo = gamesInfo;
         // console.log(typeof gamesInfo);
         next();
     }

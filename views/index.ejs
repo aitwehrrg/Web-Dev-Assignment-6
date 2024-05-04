@@ -18,7 +18,7 @@
 
             <div class="game_cards">
                 <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card') %>
+                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
                 <% } %>
             </div>
 
@@ -29,7 +29,7 @@
 
             <div class="game_cards">
                 <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card') %>
+                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
                 <% } %>
             </div>
         </section>
@@ -39,7 +39,7 @@
 
             <div class="game_cards">
                 <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card') %>
+                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
                 <% } %>
             </div>
         </section>
