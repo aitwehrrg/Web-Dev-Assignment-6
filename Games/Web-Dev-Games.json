@@ -1,0 +1,1131 @@
+[{
+  "_id": {
+    "$oid": "662e08b224a163ad8ebf3108"
+  },
+  "title": "Asteroids",
+  "developer": "Aditya Pachade",
+  "publisher": "Aditya Pachade",
+  "platforms": [
+    "WebGL"
+  ],
+  "release_date": "2024-04-19",
+  "genre": [
+    "Shoot-em-up",
+    "Arcade",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "In this action-packed space adventure, players find themselves navigating through a perilous asteroid field in their spacecraft. With fast-paced gameplay and stunning visuals, players embark on an adrenaline-fueled journey through the cosmos, navigating the asteroid field's dangers at every turn.",
+  "website": "https://megalord1977.github.io/Asteroids-VideoGame/",
+  "bg": "https://media.discordapp.net/attachments/1237639328973459519/1237639728241573909/asteroids_bg.png?ex=663c6151&is=663b0fd1&hm=4b2e2d12946e8492cc7a2ef741fbaa5c65561b94cab7f002eb05b0390f2c5403&=&format=webp&quality=lossless&width=1920&height=1080",
+  "cover": "https://media.discordapp.net/attachments/1237639328973459519/1237639728703213598/asteroids_cover.png?ex=663c6151&is=663b0fd1&hm=2213cc31aa134082ef42f651d9e90e2a3d8e2c2b703faf36100d96b9c65fdefe&=&format=webp&quality=lossless"
+},
+{
+  "_id": {
+    "$oid": "662e08c224a163ad8ebf3109"
+  },
+  "title": "Celeste",
+  "developer": "Maddy Makes Games (Matt Makes Games)",
+  "publisher": "Maddy Makes Games (Matt Makes Games)",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "2018-01-25",
+  "genre": [
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Celeste is a challenging platformer that follows the journey of Madeline, a young woman determined to climb the eponymous Celeste Mountain. Along the way, players must navigate through a series of increasingly difficult levels filled with spikes, hazards, and other obstacles. The game's tight controls, pixel-perfect platforming, and heartfelt story about overcoming personal struggles have earned it widespread critical acclaim.",
+  "website": "https://celeste-game.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/wjw3vnaclj29fqtziwsr.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3byy.webp"
+},
+{
+  "_id": {
+    "$oid": "662e08d124a163ad8ebf310a"
+  },
+  "title": "Deltarune",
+  "developer": "Toby Fox",
+  "publisher": "Toby Fox",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "Chapter 1: 2018-10-31",
+  "genre": [
+    "Role-playing",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Deltarune is a role-playing video game created by Toby Fox, the creator of Undertale. The game follows a similar style and tone as Undertale and features turn-based combat, exploration, and decision-making that impacts the story. Deltarune is released episodically, with Chapter 1 being available for free and subsequent chapters planned for release. The game features a charming cast of characters, engaging storytelling, and a unique blend of humor and emotional depth.",
+  "website": "https://www.deltarune.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/scdl5k.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w7g.webp"
+},
+{
+  "_id": {
+    "$oid": "662e08db24a163ad8ebf310b"
+  },
+  "title": "Hollow Knight",
+  "developer": "Team Cherry",
+  "publisher": "Team Cherry",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "2017-02-24",
+  "genre": [
+    "Metroidvania",
+    "Platformer"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Hollow Knight is a challenging, beautiful action-adventure game set in the vast, interconnected underground kingdom of Hallownest. Explore twisting caverns, ancient cities, and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom's heart.",
+  "website": "https://hollowknight.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/rdlcclxpscvrpkiq5kkv.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rgi.webp"
+},
+{
+  "_id": {
+    "$oid": "662e08e824a163ad8ebf310c"
+  },
+  "title": "OMORI",
+  "developer": "OMOCAT, LLC",
+  "publisher": "OMOCAT, LLC",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch"
+  ],
+  "release_date": "2020-12-25",
+  "genre": [
+    "Role-playing",
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "OMORI is a surreal psychological horror role-playing game created by OMOCAT, inspired by the Earthbound series. Players control the titular character, OMORI, a lonely boy who explores both the real world and a dream world filled with strange and surreal creatures. The game features a unique hand-drawn art style, turn-based combat, and a deeply emotional narrative that explores themes of mental health, friendship, and trauma.",
+  "website": "https://www.omori-game.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc752u.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlp.webp"
+},
+{
+  "_id": {
+    "$oid": "662e08f124a163ad8ebf310d"
+  },
+  "title": "Shovel Knight",
+  "developer": "Yacht Club Games",
+  "publisher": "Yacht Club Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo 3DS",
+    "Wii U",
+    "Nintendo Switch",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Xbox One"
+  ],
+  "release_date": "2014-06-26",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Shovel Knight is a 2D side-scrolling platform game inspired by classic titles from the 8-bit era. Players control the titular character, a valiant knight armed with a shovel, as he embarks on a quest to rescue his beloved and defeat the evil Enchantress and her Order of No Quarter. The game features challenging platforming levels, creative boss battles, and a charming retro art style reminiscent of the NES era. Shovel Knight has received critical acclaim for its gameplay, level design, and nostalgic appeal.",
+  "website": "https://yachtclubgames.com/shovel-knight/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/outycdkalqornawemrt8.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pup.webp"
+},
+{
+  "_id": {
+    "$oid": "662e08fb24a163ad8ebf310e"
+  },
+  "title": "Undertale",
+  "developer": "Toby Fox",
+  "publisher": "Toby Fox",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "release_date": "2015-09-15",
+  "genre": [
+    "Role-playing",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Undertale is a unique RPG where you don't have to kill anyone. In this game, you play as a child who has fallen into the Underground, a secluded region beneath the surface of the Earth, populated by monsters. The player interacts with various monsters, navigating through bullet hell-style combat, and chooses whether to befriend or fight them. The game is known for its innovative gameplay mechanics, memorable characters, and multiple endings based on player choices.",
+  "website": "https://undertale.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/dp7ytj3ouesyoq7ddrrx.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2855.webp"
+},
+{
+  "_id": {
+    "$oid": "663b97dcc0edd3a7257f8360"
+  },
+  "title": "Katana ZERO",
+  "developer": "Askiisoft",
+  "publisher": "Devolver Digital",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "2019-04-18",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Katana ZERO is a stylish neo-noir action platformer featuring tight, fast-paced gameplay and a narrative-driven story. Players control a skilled assassin known as 'The Dragon' as he slashes through enemies using his katana and manipulates time to overcome challenges. The game is known for its engaging combat, challenging levels, and atmospheric storytelling.",
+  "website": "https://www.devolverdigital.com/games/katana-zero",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc5zhi.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1isp.webp"
+},
+{
+  "_id": {
+    "$oid": "663b97fac0edd3a7257f8361"
+  },
+  "title": "Bloodstained: Curse of the Moon",
+  "developer": "Inti Creates",
+  "publisher": "Inti Creates",
+  "platforms": [
+    "Windows",
+    "Nintendo Switch",
+    "Nintendo 3DS",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Xbox One"
+  ],
+  "release_date": "2018-05-24",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Bloodstained: Curse of the Moon is a 2D action-platformer developed by Inti Creates. It serves as a companion game to Bloodstained: Ritual of the Night, featuring retro-style graphics and gameplay inspired by classic Castlevania games. Players control various characters, each with their own unique abilities, as they battle through challenging levels filled with enemies and bosses. The game is praised for its nostalgic appeal and tight, responsive controls.",
+  "website": "https://curseofthemoon.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/vqid7w0cjm8kym6pa00z.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dsq.webp"
+},
+{
+  "_id": {
+    "$oid": "663b980dc0edd3a7257f8362"
+  },
+  "title": "The Messenger",
+  "developer": "Sabotage Studio",
+  "publisher": "Devolver Digital",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4"
+  ],
+  "release_date": "2018-08-30",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "The Messenger is a retro-inspired action-platformer that combines 8-bit and 16-bit gameplay. Players control a ninja warrior tasked with delivering a scroll that holds the power to save his clan. The game features challenging levels, tight controls, and a unique time-traveling mechanic that shifts between the 8-bit and 16-bit eras. The Messenger received praise for its gameplay, level design, and nostalgic appeal.",
+  "website": "https://messengergame.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/c5hnld671pfcee9as5kb.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr9.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9819c0edd3a7257f8363"
+  },
+  "title": "Bloodstained: Curse of the Moon 2",
+  "developer": "Inti Creates",
+  "publisher": "Inti Creates",
+  "platforms": [
+    "Windows",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "2020-07-10",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "description": "Bloodstained: Curse of the Moon 2 is a 2D action-platformer developed by Inti Creates. It is a sequel to the original Curse of the Moon and features similar retro-style graphics and gameplay inspired by classic Castlevania games. Players control multiple characters, each with their own unique abilities, as they battle through challenging levels filled with enemies and bosses. The game can be played solo or with a friend in local co-op mode.",
+  "website": "https://curseofthemoon.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc8dfo.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2d4b.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9827c0edd3a7257f8364"
+  },
+  "title": "Guacamelee!",
+  "developer": "DrinkBox Studios",
+  "publisher": "DrinkBox Studios",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Xbox 360",
+    "Wii U",
+    "Nintendo Switch"
+  ],
+  "release_date": "2013-04-09",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Local Co-op"
+  ],
+  "description": "Guacamelee! is a Metroidvania-style action-platformer that draws inspiration from Mexican culture and folklore. Players control Juan, a humble agave farmer who becomes a luchador to save El Presidente's daughter from the evil charro skeleton Carlos Calaca. The game features a vibrant art style, challenging gameplay, and a unique dimension-switching mechanic that allows players to travel between the worlds of the living and the dead. Guacamelee! also includes local co-op multiplayer.",
+  "website": "http://guacamelee.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/oynzgyfasnssjdfnkuvy.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g6i.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9834c0edd3a7257f8365"
+  },
+  "title": "Guacamelee! 2",
+  "developer": "DrinkBox Studios",
+  "publisher": "DrinkBox Studios",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "release_date": "2018-08-21",
+  "genre": [
+    "Action",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Local Co-op"
+  ],
+  "description": "Guacamelee! 2 is the sequel to the popular action-platformer Guacamelee!. Players once again step into the shoes of Juan Aguacate, a luchador battling to save the Mexiverse from a new evil threat. The game features the same vibrant art style, challenging gameplay, and dimension-switching mechanic as the original, along with new levels, enemies, and abilities. Guacamelee! 2 also includes local co-op multiplayer for up to four players.",
+  "website": "http://guacamelee2.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/jwtqrtmpo92wsq7ssj1y.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jbb.webp"
+},
+{
+  "_id": {
+    "$oid": "663b983fc0edd3a7257f8366"
+  },
+  "title": "Ori and the Blind Forest",
+  "developer": "Moon Studios",
+  "publisher": "Microsoft Studios",
+  "platforms": [
+    "Windows",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "release_date": "2015-03-11",
+  "genre": [
+    "Platformer",
+    "Metroidvania",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Ori and the Blind Forest is a visually stunning platformer that follows the story of Ori, a guardian spirit, as they explore a beautiful but dangerous forest. The game features hand-painted artwork, a moving musical score, and challenging gameplay that combines platforming, puzzles, and action. Players must navigate the forest, unlock new abilities, and uncover the mysteries of the world to restore balance to the forest and save Ori's home.",
+  "website": "https://www.orithegame.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/ritdwffctzicqdpz44lz.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y41.webp"
+},
+{
+  "_id": {
+    "$oid": "663b984cc0edd3a7257f8367"
+  },
+  "title": "Ori and the Will of the Wisps",
+  "developer": "Moon Studios",
+  "publisher": "Xbox Game Studios",
+  "platforms": [
+    "Windows",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "release_date": "2020-03-11",
+  "genre": [
+    "Platformer",
+    "Metroidvania",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Ori and the Will of the Wisps is the highly anticipated sequel to Ori and the Blind Forest. Players once again control Ori, a guardian spirit, as they embark on a new adventure to discover the mysteries beyond the forest of Nibel. The game features stunning visuals, an emotional story, and challenging gameplay that builds upon the foundation of the first game. Players will explore new environments, encounter new friends and foes, and uncover the true destiny of Ori.",
+  "website": "https://www.orithegame.com/willofthewisps/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc8fws.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e1l.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9857c0edd3a7257f8368"
+  },
+  "title": "The Witch's House",
+  "developer": "Fummy",
+  "publisher": "Fummy",
+  "platforms": [
+    "Windows"
+  ],
+  "release_date": "2012-10-03",
+  "genre": [
+    "Horror",
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "The Witch's House is a horror-themed puzzle game created in RPG Maker. Players control a young girl named Viola who wakes up in front of a mysterious house in the forest. As she explores the house, she encounters various traps and puzzles that she must solve to progress. The game is known for its eerie atmosphere, unsettling story, and unexpected twists.",
+  "website": "https://vgperson.com/games/witchhouse.htm",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/lioblhf9zbhjxppysaru.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26bo.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9861c0edd3a7257f8369"
+  },
+  "title": "Mad Father",
+  "developer": "Sen",
+  "publisher": "Sen",
+  "platforms": [
+    "Windows",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "PlayStation Vita"
+  ],
+  "release_date": "2012-12-10",
+  "genre": [
+    "Horror",
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Mad Father is a horror-adventure game created using the WOLF RPG Editor. Players control a young girl named Aya Drevis who lives in an isolated mansion with her deranged father. As Aya explores the mansion, she uncovers dark secrets and must solve puzzles to survive. The game is known for its eerie atmosphere, psychological horror elements, and multiple endings based on player choices.",
+  "website": "https://vgperson.com/games/madfather.htm",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/scgo5o.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l6k.webp"
+},
+{
+  "_id": {
+    "$oid": "663b986cc0edd3a7257f836a"
+  },
+  "title": "Ib",
+  "developer": "kouri",
+  "publisher": "Freebird Games",
+  "platforms": [
+    "Windows"
+  ],
+  "release_date": "2012-02-27",
+  "genre": [
+    "Horror",
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Ib is a horror-adventure game created using RPG Maker 2000. Players control a young girl named Ib who visits an art gallery with her parents. After getting separated from them, Ib finds herself trapped in a surreal and disturbing world filled with strange creatures and eerie paintings. The game features puzzle-solving elements and multiple endings based on player choices.",
+  "website": "https://www.vgperson.com/games/ib.htm",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/scge6p.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nn3.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9876c0edd3a7257f836b"
+  },
+  "title": "Dead Cells",
+  "developer": "Motion Twin",
+  "publisher": "Motion Twin",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2018-08-07",
+  "genre": [
+    "Roguelike",
+    "Metroidvania",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Dead Cells is a roguelike-metroidvania hybrid game where you explore a sprawling, ever-changing castle. Players must fight their way through the castle's various levels, collecting weapons, abilities, and power-ups along the way. The game features fast-paced combat, challenging enemies, and a unique 'permadeath' system where each run is different from the last. Dead Cells is known for its fluid gameplay, pixel art style, and high level of difficulty.",
+  "website": "https://dead-cells.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/bt9qwbyek1dmffukq44d.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jfv.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9881c0edd3a7257f836c"
+  },
+  "title": "FTL: Faster Than Light",
+  "developer": "Subset Games",
+  "publisher": "Subset Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "iOS"
+  ],
+  "release_date": "2012-09-14",
+  "genre": [
+    "Strategy",
+    "Indie",
+    "Simulation"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "FTL: Faster Than Light is a real-time strategy game where you control a spaceship and its crew as they try to outrun an advancing rebel fleet. The game features randomly generated galaxies, tactical ship-to-ship combat, and resource management. Players must make decisions on crew management, ship upgrades, and encounters with other ships and events. FTL is known for its challenging gameplay, strategic depth, and replayability.",
+  "website": "https://subsetgames.com/ftl.html",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/ar83u.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gd9.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9890c0edd3a7257f836d"
+  },
+  "title": "Into the Breach",
+  "developer": "Subset Games",
+  "publisher": "Subset Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch"
+  ],
+  "release_date": "2018-02-27",
+  "genre": [
+    "Strategy",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Into the Breach is a turn-based strategy game where you control a team of mechs battling against an alien threat. The game features procedurally generated levels, tactical combat, and a focus on environmental destruction and manipulation. Players must use their mechs' abilities and the environment to outmaneuver and defeat the alien invaders. Into the Breach is known for its challenging gameplay, strategic depth, and replayability.",
+  "website": "https://subsetgames.com/itb.html",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/zlw2k9ehpqpxs5dafguo.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gjp.webp"
+},
+{
+  "_id": {
+    "$oid": "663b989dc0edd3a7257f836e"
+  },
+  "title": "Journey",
+  "developer": "Thatgamecompany",
+  "publisher": "Sony Computer Entertainment",
+  "platforms": [
+    "PlayStation 3",
+    "PlayStation 4",
+    "Windows",
+    "iOS"
+  ],
+  "release_date": "2012-03-13",
+  "genre": [
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Online multiplayer"
+  ],
+  "description": "Journey is an indie adventure game where you play as a robed figure traveling through a vast desert towards a distant mountain. The game is known for its stunning visuals, emotional soundtrack, and unique multiplayer component where you may encounter other players on their own journeys. Players can communicate with each other using musical chimes but cannot see each other's names or communicate through voice or text, fostering a sense of connection and cooperation.",
+  "website": "https://thatgamecompany.com/journey/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/ltdjvz1bhad8tdi07nj9.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q8q.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98abc0edd3a7257f836f"
+  },
+  "title": "Inscryption",
+  "developer": "Daniel Mullins Games",
+  "publisher": "Devolver Digital",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "release_date": "2021-10-19",
+  "genre": [
+    "Card game",
+    "Horror",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Inscryption is a blend of deck-building card game and escape-room style puzzle game with a horror theme. Players collect cards, build decks, and engage in card battles, but the game also features a mysterious narrative and puzzles to solve. The game's dark atmosphere, unique gameplay mechanics, and unexpected twists have garnered praise from players and critics alike.",
+  "website": "https://store.steampowered.com/app/1096220/Inscryption/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc8lf2.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co401c.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98b7c0edd3a7257f8370"
+  },
+  "title": "Super Meat Boy",
+  "developer": "Team Meat",
+  "publisher": "Team Meat",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Xbox 360",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Wii U",
+    "Nintendo Switch"
+  ],
+  "release_date": "2010-10-20",
+  "genre": [
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Super Meat Boy is a tough-as-nails platformer where you play as a small, skinless boy who must save his girlfriend from an evil fetus in a jar wearing a tuxedo. The game features incredibly challenging levels with precise controls, requiring players to navigate through hazardous environments filled with saw blades, needles, and other deadly obstacles. Super Meat Boy is known for its punishing difficulty, tight gameplay, and retro-inspired graphics and sound.",
+  "website": "https://supermeatboy.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/agatqhsdwnr1oz5ghqdt.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co276m.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98c1c0edd3a7257f8371"
+  },
+  "title": "The Binding of Isaac",
+  "developer": "Edmund McMillen, Florian Himsl",
+  "publisher": "Edmund McMillen",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One",
+    "iOS"
+  ],
+  "release_date": "2011-09-28",
+  "genre": [
+    "Roguelike",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "The Binding of Isaac is a roguelike dungeon crawler that follows the story of Isaac, a young boy whose mother receives a message from God demanding the sacrifice of her son. Isaac escapes into the basement, where he must navigate through randomly generated levels filled with monsters and hazards. The game features a variety of power-ups and items that alter gameplay, along with multiple endings based on player choices.",
+  "website": "https://bindingofisaac.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/vylssehkcwi1ktenjnfl.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qll.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98ccc0edd3a7257f8372"
+  },
+  "title": "Hades",
+  "developer": "Supergiant Games",
+  "publisher": "Supergiant Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "release_date": "2020-09-17",
+  "genre": [
+    "Action",
+    "Roguelike",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Hades is an action-packed roguelike dungeon crawler where you play as Zagreus, the son of Hades, as he attempts to escape the underworld. The game features fast-paced combat, a rich story based on Greek mythology, and a unique progression system where each escape attempt adds to the overall story. With its stylish art, engaging gameplay, and compelling narrative, Hades has been praised as one of the best games in its genre.",
+  "website": "https://www.supergiantgames.com/games/hades/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc8lik.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98dbc0edd3a7257f8373"
+  },
+  "title": "Crypt of the NecroDancer",
+  "developer": "Brace Yourself Games",
+  "publisher": "Brace Yourself Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Nintendo Switch",
+    "Xbox One",
+    "iOS"
+  ],
+  "release_date": "2015-04-23",
+  "genre": [
+    "Roguelike",
+    "Rhythm",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "description": "Crypt of the NecroDancer is a unique rhythm-based roguelike game where you move and fight to the beat of the music. Players navigate through randomly generated dungeons, battling monsters and avoiding traps, all while keeping the rhythm to maintain their multiplier and earn rewards. The game features a variety of characters, each with their own abilities, and includes a popular feature that allows players to use their own music for gameplay.",
+  "website": "https://braceyourselfgames.com/games/crypt-of-the-necrodancer/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/yrasl95wor2gf7rci2pi.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co538r.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98e8c0edd3a7257f8374"
+  },
+  "title": "Hyper Light Drifter",
+  "developer": "Heart Machine",
+  "publisher": "Heart Machine",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch",
+    "iOS"
+  ],
+  "release_date": "2016-03-31",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Hyper Light Drifter is an action-adventure game with a distinct pixel art style. Players control the Drifter, a character with access to advanced technology, as they explore a mysterious world, battle enemies, and uncover secrets. The game features challenging combat, intricate world design, and a deep, wordless narrative that is open to interpretation. Hyper Light Drifter is praised for its atmospheric visuals, tight gameplay, and haunting soundtrack.",
+  "website": "http://www.heart-machine.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/i343g9j3xf5zhkrfcq3u.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2edn.webp"
+},
+{
+  "_id": {
+    "$oid": "663b98f8c0edd3a7257f8375"
+  },
+  "title": "Baba Is You",
+  "developer": "Hempuli",
+  "publisher": "Hempuli",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2019-03-13",
+  "genre": [
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Baba Is You is a puzzle game where the rules of the game are themselves objects that you can manipulate. Players control Baba, a rabbit-like creature, and must rearrange the rules of each level to solve puzzles and reach the goal. The game features a simple yet challenging gameplay mechanic that allows for creative problem-solving and a wide variety of puzzles to solve.",
+  "website": "https://www.hempuli.com/baba/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc6kyn.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hqt.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9908c0edd3a7257f8376"
+  },
+  "title": "Limbo",
+  "developer": "Playdead",
+  "publisher": "Playdead",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Xbox 360",
+    "Xbox One",
+    "Nintendo Switch",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2010-07-21",
+  "genre": [
+    "Puzzle",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Limbo is a puzzle-platformer game where players control a boy who is searching for his sister in a monochromatic and dangerous world. The game features a dark and eerie atmosphere, with challenging puzzles and obstacles that the player must overcome using the environment and logic. Limbo is known for its minimalist art style, ambient sound design, and compelling storytelling.",
+  "website": "https://playdead.com/games/limbo/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc99xz.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrs.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9913c0edd3a7257f8377"
+  },
+  "title": "Inside",
+  "developer": "Playdead",
+  "publisher": "Playdead",
+  "platforms": [
+    "Windows",
+    "PlayStation 4",
+    "Xbox One",
+    "iOS",
+    "Nintendo Switch"
+  ],
+  "release_date": "2016-06-29",
+  "genre": [
+    "Puzzle",
+    "Platformer",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Inside is a puzzle-platformer adventure game where players control a boy in a dystopic world, solving environmental puzzles and avoiding death. The game features a dark and atmospheric world, with a minimalist art style and a haunting soundtrack. Inside is known for its immersive storytelling, surreal imagery, and thought-provoking themes.",
+  "website": "https://playdead.com/games/inside/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/guhljbryvlqg2kn25z7r.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fca.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9922c0edd3a7257f8379"
+  },
+  "title": "Snakebird",
+  "developer": "Noumenon Games",
+  "publisher": "Noumenon Games",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2015-05-04",
+  "genre": [
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Snakebird is a challenging puzzle game where players control colorful snake-like birds as they navigate through increasingly complex levels. The goal is to eat fruit and reach the exit, but the puzzles require careful planning and strategy to avoid getting stuck or falling into traps. Snakebird features charming graphics, relaxing music, and over 50 levels of brain-teasing puzzles.",
+  "website": "http://snakebird.noumenongames.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/hvpfczhktidv75uqv9uv.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nxc.webp"
+},
+{
+  "_id": {
+    "$oid": "663b99bbc0edd3a7257f837a"
+  },
+  "title": "Cave Story",
+  "developer": "Studio Pixel",
+  "publisher": "Nicalis",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "Nintendo 3DS",
+    "Wii",
+    "Wii U",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "release_date": "2004-12-20",
+  "genre": [
+    "Platformer",
+    "Metroidvania",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Cave Story is a classic indie platform-adventure game created by Daisuke \"Pixel\" Amaya. Players control an amnesiac protagonist who awakens in a cave and must explore the world, fight enemies, and solve puzzles to uncover the mystery of the island. The game features a charming retro art style, memorable characters, and multiple endings based on player choices. Cave Story is praised for its engaging gameplay, heartfelt story, and homage to classic 2D games.",
+  "website": "https://www.nicalis.com/games/cavestory",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/tkwhuzq2vknkud6o4shg.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7cty.webp"
+},
+{
+  "_id": {
+    "$oid": "663b99c8c0edd3a7257f837b"
+  },
+  "title": "Cookie Clicker",
+  "developer": "Orteil",
+  "publisher": "Orteil",
+  "platforms": [
+    "Web",
+    "Windows",
+    "macOS",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2013-08-08",
+  "genre": [
+    "Incremental",
+    "Idle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Cookie Clicker is an incremental game where players click on a cookie to earn cookies, which can then be used to purchase upgrades and buildings to generate even more cookies. The game features simple gameplay mechanics but can become quite addictive as players strive to unlock all upgrades and achievements. Cookie Clicker has received numerous updates and has a dedicated fan base.",
+  "website": "https://orteil.dashnet.org/cookieclicker/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/ev6kuknw9yrcce0yvuwb.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2898.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9a04c0edd3a7257f837e"
+  },
+  "title": "BattleBlock Theater",
+  "developer": "The Behemoth",
+  "publisher": "The Behemoth",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "release_date": "2013-04-03",
+  "genre": [
+    "Platformer",
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player",
+    "Co-op",
+    "Multiplayer"
+  ],
+  "description": "BattleBlock Theater is a platformer game where players control prisoners who are forced to perform in deadly theater productions by cats. The game features a humorous story mode with a variety of levels and challenges, as well as a competitive multiplayer mode where players can battle against each other in various arenas. BattleBlock Theater is known for its quirky humor, colorful art style, and challenging gameplay.",
+  "website": "https://www.battleblocktheater.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/cin95yxe1odusrimpgc8.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ify.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9a16c0edd3a7257f837f"
+  },
+  "title": "A Hat in Time",
+  "developer": "Gears for Breakfast",
+  "publisher": "Gears for Breakfast",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "release_date": "2017-10-05",
+  "genre": [
+    "Platformer",
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "A Hat in Time is a 3D platformer game inspired by classic games like Super Mario 64 and Banjo-Kazooie. Players control Hat Kid, a young girl with a magical hat that can alter time, as she explores various worlds and collects Time Pieces to power her spaceship. The game features charming characters, colorful worlds, and a lighthearted story. A Hat in Time is praised for its fun gameplay, creative level design, and nostalgic appeal.",
+  "website": "https://hatintime.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/oo7kp0l7meyqme68shm2.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pl5.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9a24c0edd3a7257f8380"
+  },
+  "title": "SUPERHOT",
+  "developer": "SUPERHOT Team",
+  "publisher": "SUPERHOT Team",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "release_date": "2016-02-25",
+  "genre": [
+    "First-person shooter",
+    "Puzzle",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "SUPERHOT is a unique first-person shooter game where time only moves when you move. Players must carefully plan their movements and actions to take out enemies and avoid getting hit. The game features minimalist graphics and a surreal, immersive atmosphere. SUPERHOT's innovative gameplay mechanic and stylish presentation have made it a standout title in the FPS genre.",
+  "website": "https://superhotgame.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/zq4kpmk7tww73otsien2.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ybp.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9a30c0edd3a7257f8381"
+  },
+  "title": "ULTRAKILL",
+  "developer": "Arbiter",
+  "publisher": "New Blood Interactive",
+  "platforms": [
+    "Windows"
+  ],
+  "release_date": "2020-09-03",
+  "genre": [
+    "First-person shooter",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "ULTRAKILL is a fast-paced retro-inspired first-person shooter game where players must navigate through levels filled with enemies using acrobatic movement and a variety of weapons. The game features a unique scoring system based on speed and style, encouraging players to move quickly and efficiently through each level. ULTRAKILL's fast-paced gameplay, challenging enemies, and retro aesthetic have made it a hit among fans of classic shooters.",
+  "website": "https://ultrakill.newblood.games/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc7vc7.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46s3.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9affc0edd3a7257f8382"
+  },
+  "title": "The Henry Stickmin Collection",
+  "developer": "PuffballsUnited",
+  "publisher": "Innersloth",
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "release_date": "2020-08-07",
+  "genre": [
+    "Point-and-click adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "The Henry Stickmin Collection is a collection of remastered versions of the original five Henry Stickmin games, along with a new installment, completing the series. The games are known for their humorous take on the point-and-click adventure genre, featuring a stick-figure character named Henry Stickmin as he attempts various heists and adventures. The collection includes multiple endings and branching pathways based on player choices.",
+  "website": "https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/sc71sj.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mgv.webp"
+},
+{
+  "_id": {
+    "$oid": "663b9b0cc0edd3a7257f8383"
+  },
+  "title": "Night in the Woods",
+  "developer": "Infinite Fall",
+  "publisher": "Finji",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch",
+    "iOS",
+    "Android"
+  ],
+  "release_date": "2017-02-21",
+  "genre": [
+    "Adventure",
+    "Indie"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "description": "Night in the Woods is a story-driven adventure game about a young college dropout named Mae Borowski who returns to her hometown and discovers mysterious happenings. Players explore the town, interact with its inhabitants, and uncover dark secrets. The game features a unique art style, engaging dialogue, and themes of mental health and identity. Night in the Woods is praised for its storytelling, characters, and atmosphere.",
+  "website": "http://www.nightinthewoods.com/",
+  "bg": "https://images.igdb.com/igdb/image/upload/t_original/xrtyxyp5gqyjfsuv3y0r.webp",
+  "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ovg.webp"
+}]
