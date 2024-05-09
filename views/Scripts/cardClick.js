@@ -7,11 +7,13 @@ function handleClickingCard(url){
     return rerouteOnClick;
 }
 
-// URL must be received from the Database
-// const url = "";
-const rerouteToXYZ = handleClickingCard("/game");
-
 cardArray.forEach((card) => {
     //console.log("Added Event Listener");
-    card.addEventListener("click", () => { rerouteToXYZ();});
+    card.addEventListener("click", () => { 
+        // URL must be received from the Database
+        // const url = "";
+        const name = card.children[0].getAttribute("alt");
+        const rerouteToNAME = handleClickingCard(`/game?gamename=${name}`);
+        rerouteToNAME();
+    });
 });

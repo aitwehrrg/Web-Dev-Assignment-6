@@ -49,12 +49,13 @@ const gameSchema = new mongoose.Schema({
         type: String
     },
 
-    images: [
-        {
-            type: String,
-            required: true
-        }
-    ]
+    bg: {
+        type: String
+    },
+
+    cover: {
+        type: String
+    }
 })
 
 const gameModel = mongoose.model("GAME", gameSchema);

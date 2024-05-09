@@ -42,3 +42,18 @@
     /* Colour Properties */
     background-color: #F7F7F7;
 }
+
+.game_card > img{
+    /* Box Properties */
+    height: 100%;
+    aspect-ratio: inherit;
+    border-radius: 5px;
+    margin-inline: auto;
+
+    /* Display Properties */
+    display: block
+}
+
+.game_card:hover{
+    cursor: pointer;
+}
