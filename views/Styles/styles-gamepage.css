@@ -16,6 +16,9 @@ main{
 
     /* Colour Properties */
     background-color: #F7F7F7;
+
+    /* Text and Font Properties */
+    font-family: 'Segoe UI', sans-serif;
 }
 
 #banner{
@@ -42,7 +45,7 @@ main{
     display: grid;
     gap: var(--spacing);
     grid-auto-flow: column;
-    grid-template-columns: 2fr 5fr 3fr;
+    grid-template-columns: 2fr 6fr 2fr;
 }
 
 #game-poster{
@@ -63,4 +66,53 @@ main{
     /* Box Properties */
     max-width: 100%;
     margin-inline: auto;
+}
+
+#game-text{
+    /* Box Properties */
+    width: 100%;
+
+    /* Positon Properties */
+    position: relative;
+    left: 10%;
+
+    /* Text and Font Properties */
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#game-text > h1{
+    /* Box Properties */
+    margin: 0px;
+
+    /* Text and Font Properties */
+    font-size: 3rem;
+    font-weight: 800;
+    text-shadow: 1px 1px var(--color-bittersweet);
+}
+
+.bold-font{
+    /* Text and Font Properties */
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+a{
+    /* Text and Font Properties */
+    text-decoration: none;
+}
+
+#game-description{
+    /* Box Properties */
+    width: 100%;
+
+    /* Grid Properties */
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 2fr 9fr;
+}
+
+#game-description > :nth-child(2){
+    /* Box Properties */
+    padding: 0.5rex 0.5rem;
 }

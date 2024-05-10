@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles-general.css" type="text/css">
-    <link rel="stylesheet" href="./Styles/styles-frontpage.css" type="text/css">
-    <title>Game-Title</title>
+    <link rel="stylesheet" href="./Styles/styles-gamepage.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Gaming Chronicles: <%= gameInfo.title %></title>
 </head>
 <body>
     <header>
@@ -13,17 +14,55 @@
     </header>
 
     <main>
-        <div class="game-info">
-            <div id="banner">
-                <!-- <img src="../Games/hollow_knight/hollow_knight_bg.jpg"> -->
+    <div class="game-info">
+        <div id="banner">
+            <img src="<%= gameInfo.bg %>">
+        </div>
+
+        <div id="game-data">
+            <div id="game-poster">
+                <img src="<%= gameInfo.cover %>">
             </div>
 
-            <div id="game-data">
-                <div id="game-poster">
-                    <!-- <img src="../Games/hollow_knight/hollow_knight_cover.png"> -->
-                </div>
+            <div id="game-text">
+                <h1><%= gameInfo.title %></h1>
+                <p>
+                    <% if(gameInfo.developer === gameInfo.publisher){ %>
+                        Developed and Published by: <%= gameInfo.developer %>
+                    <% } else { %>
+                        Developer: <%= gameInfo.developer %><br>
+                        Publisher: <%= gameInfo.publisher %>
+                    <% } %>
+                </p>
+                <hr><br>
+
+                <p>
+                    <span class="bold-font">Platforms: </span>
+                    <%- include('display-arr-info', { gamedataarr: gameInfo.platforms }) %><br>
+
+                    <span class="bold-font">Genres: </span>
+                    <%- include('display-arr-info', { gamedataarr: gameInfo.genre }) %><br>
+
+                    <span class="bold-font">Modes: </span>
+                    <%- include('display-arr-info', { gamedataarr: gameInfo.modes }) %><br>
+
+                    <span class="bold-font">Release Date: </span>
+                    <%= gameInfo.release_date %><br>
+
+                    <span class="bold-font">Website: </span>
+                    <a href="<%= gameInfo.website %>">
+                        <%= gameInfo.title %>
+                        <i class="fa fa-external-link"></i>
+                    </a><br>
+
+                    <article id="game-description">
+                    <span class="bold-font">Description: </span>
+                    <span><%= gameInfo.description %></span>
+                    </article>
+                </p>
             </div>
         </div>
+    </div>
     </main>
 
     <footer>

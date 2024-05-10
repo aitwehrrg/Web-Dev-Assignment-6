@@ -32,7 +32,7 @@ const gameSchema = new mongoose.Schema({
         required: true
     },
 
-    genres: [
+    genre: [
         {genreName: {type: String, required: true}}
     ],
 
