@@ -1,10 +1,10 @@
-# Acknowledgements
+# Web Dev Project
 
 
-# Aim
+## Aim
 To create a catalogue of Video Games to be referenced to by everyone.
 
-#  Theory
+## Theory
 ## Request Response Cycle
 1. Request
 ```mermaid
@@ -44,7 +44,7 @@ Database -->|BSON| Mongoose;
 Static-File-System <--> EJS;
 ```
 
-# Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
@@ -52,13 +52,13 @@ Static-File-System <--> EJS;
 - Express
 - MongoDB
 - Embedded JavaScript
-# Future Scope
+## Future Scope
 1. Addition of Account Systems
 2. URL Validation for Game Websites
 3. Search Bar
-# References
+## References
 1. [IGDB](https://www.igdb.com/)
 2. [IMDB](https://www.imdb.com/)
 
-# Conclusion
+## Conclusion
 A website fit for basic queries and searches has been created.
