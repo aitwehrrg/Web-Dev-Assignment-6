@@ -1,4 +1,4 @@
-const { getCardsHandler } = require("./controllerInfo");
+const { getCardsHandler, getGameInfoHandler } = require("./controllerInfo");
 
 function getHomeHandler(){
     const method = (req, res) => {
@@ -12,10 +12,10 @@ function getHomeHandler(){
 function getGameHandler(){
     const method = (req, res) => {
         console.log("Game Page");
-        res.render("game-name");
+        res.render("game-name", { gameInfo: req.gameInfo });
         res.end();
     }
     return method;
 }
 
-module.exports = { getHomeHandler, getGameHandler, getCardsHandler };
+module.exports = { getHomeHandler, getGameHandler, getCardsHandler, getGameInfoHandler };

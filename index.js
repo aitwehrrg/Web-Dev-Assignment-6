@@ -4,13 +4,12 @@ const ejs = require("ejs");
 
 //Get Router
 const { routingHome, routingGame } = require("./Express App/Routes/routeIndex");
-cls
+
 //Express App
 const app = express();
 app.use(express.static("./views/"));
 app.use(express.static("./views/Styles/"));
 app.use(express.static("./views/Scripts/"));
-app.use(express.urlencoded({extended: false, parameterLimit: 1}));
 
 app.set("view engine", "ejs");
 app.set("views", path.resolve("./views/"));
@@ -22,7 +21,7 @@ app.use((req, res, next) => {
 });
 //=================================
 
-app.use("/", routingHome);
+// app.use("/", routingHome);
 app.use("/home", routingHome);
 app.use("/game", routingGame);
 
