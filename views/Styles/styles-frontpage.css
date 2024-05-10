@@ -1,0 +1,59 @@
+.section_title{
+    /* Text and Font Properties */
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.game_cards{
+    --spacers: 1rem;
+    --spacers-padding: 0.5rem;
+
+    /* Box Properties */
+    padding: 0px var(--spacers-padding) 0px var(--spacers-padding);
+
+    /* Flex Properties */
+    display: flex;
+    gap: var(--spacers);
+
+    /* Overflow Properties */
+    overflow-x: auto;
+    overflow-y: none;
+    overscroll-behavior-inline: contain;
+}
+
+.game_cards::-webkit-scrollbar{
+    /* Box Properties */
+    width: 0px;
+}
+
+.game_card{
+    /* Box Properties */
+    height: 200px;
+    aspect-ratio: 3 / 4;
+    border-radius: 5px;
+    margin-top: 1.5%;
+    margin-bottom: 2%;
+    box-shadow: 1px 1px 2px var(--color-outerspace);
+
+    /* Display Properties */
+    display: inline-block;
+
+    /* Colour Properties */
+    background-color: #F7F7F7;
+}
+
+.game_card > img{
+    /* Box Properties */
+    height: 100%;
+    aspect-ratio: inherit;
+    border-radius: 5px;
+    margin-inline: auto;
+
+    /* Display Properties */
+    display: block
+}
+
+.game_card:hover{
+    cursor: pointer;
+}
