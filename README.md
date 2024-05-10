@@ -1,22 +1,64 @@
-# Web Dev Project
----
-##### -Aim: IGDB Showcase Site for Video Games
+# Acknowledgements
 
-##### Theory:
-A clone of IGDB.
 
-###### Tech Stack:
-1. HTML
-1. CSS
-1. JavaScript
-2. Node.JS
-3. Express.JS
-1. MongoDB
+# Aim
+To create a catalogue of Video Games to be referenced to by everyone.
 
-##### Future Scope:
+#  Theory
+## Request Response Cycle
+1. Request
+```mermaid
+graph TB
+Browser;
 
-##### References:
-* [https://www.imdb.com/list/ls097840768/?sort=user_rating%2Casc](https://www.imdb.com/list/ls097840768/?sort=user_rating%2Casc)
-* https://www.igdb.com/top-100/anticipated
-* https://www.ign.com/playlist/rchnemesis/lists/top-100-indie-games
-* https://store.epicgames.com/en-US/browse?sortBy=relevancy&sortDir=DESC&category=Game&count=40&start=0
+subgraph Node
+	Express;
+	Mongoose;
+	EJS;
+end
+
+Browser -->|GET request| Node;
+Express -->|Find Queries| Mongoose;
+Express -->|Render Queries| EJS;
+
+Mongoose --> Database;
+EJS <--> Static-File-System;
+```
+
+2. Response
+```mermaid
+graph TB
+Browser;
+
+subgraph Node
+ Express;
+ Mongoose;
+ EJS;
+end
+
+Node -->|Response|Browser;
+Mongoose -->|JavaScript Objects|Express;
+EJS -->|Static files|Express;
+
+Database -->|BSON| Mongoose;
+Static-File-System <--> EJS;
+```
+
+# Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Node
+- Express
+- MongoDB
+- Embedded JavaScript
+# Future Scope
+1. Addition of Account Systems
+2. URL Validation for Game Websites
+3. Search Bar
+# References
+1. [IGDB](https://www.igdb.com/)
+2. [IMDB](https://www.imdb.com/)
+
+# Conclusion
+A website fit for basic queries and searches has been created.
