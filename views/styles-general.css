@@ -47,7 +47,7 @@ header > p{
     /* Text and Font Properties */
     text-align: center;
     font-size: 2rem;
-    font-family: Impact, sans-serif;
+    font-family: Insanibc, Impact, sans-serif;
     text-shadow: 2.25px 2.25px 2px var(--color-outerspace);
 }
 
@@ -78,5 +78,9 @@ footer > *{
 }
 
 #site-title:hover{
+    cursor: pointer;
+}
+
+#info-circle{
     cursor: pointer;
 }

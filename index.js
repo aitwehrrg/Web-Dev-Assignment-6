@@ -3,13 +3,15 @@ const path = require("path");
 const ejs = require("ejs");
 
 //Get Router
-const { routingHome, routingGame } = require("./Express App/Routes/routeIndex");
+const { routingHome, routingGame, routingAbout } = require("./Express App/Routes/routeIndex");
 
 //Express App
 const app = express();
 app.use(express.static("./views/"));
 app.use(express.static("./views/Styles/"));
 app.use(express.static("./views/Scripts/"));
+app.use(express.static("./views/Fonts/"));
+app.use(express.static("./views/Images/"));
 
 app.set("view engine", "ejs");
 app.set("views", path.resolve("./views/"));
@@ -24,6 +26,7 @@ app.use((req, res, next) => {
 // app.use("/", routingHome);
 app.use("/home", routingHome);
 app.use("/game", routingGame);
+app.use("/about", routingAbout);
 
 //================================= Console methods for debugging
 app.use((err, req, res, next) => {
