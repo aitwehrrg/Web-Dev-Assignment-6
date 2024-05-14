@@ -18,4 +18,13 @@ function getGameHandler(){
     return method;
 }
 
-module.exports = { getHomeHandler, getGameHandler, getCardsHandler, getGameInfoHandler };
+function getAboutHandler(){
+    const method = (req, res) => {
+        console.log("About Page");
+        res.render("about-page");
+        res.end();
+    }
+    return method;
+}
+
+module.exports = { getHomeHandler, getGameHandler, getCardsHandler, getGameInfoHandler, getAboutHandler };

@@ -80,3 +80,7 @@ footer > *{
 #site-title:hover{
     cursor: pointer;
 }
+
+#info-circle{
+    cursor: pointer;
+}

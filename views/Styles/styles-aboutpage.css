@@ -1,0 +1,45 @@
+body{
+    /* Background Properties */
+    background-image: url(https://github.com/aitwehrrg/Web-Dev-Assignment-6/blob/Chavan/credits/bg5.jpg?raw=true);
+}
+
+#about-container {
+    /* Box Properties */
+    max-width: 50vw;
+    padding: 20px;
+    margin: 75px auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 25px var(--color-outerspace);
+
+    /* Colour Properties */
+    background-color: var(--color-bittersweet);
+    
+    /* Text and Font Properties */
+    font-family: Architects-Daughter;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 3.2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 50px;
+    text-align: center;
+    text-shadow: #e72b2b;
+    font-size: 2em;
+}
+
+.credit {
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: color 0.3s, font-size 0.3s;
+}
+
+.credit:hover {
+    color: var(--color-outerspace);
+    font-size: 1.08em;
+}
