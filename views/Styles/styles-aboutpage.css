@@ -1,0 +1,61 @@
+body{
+    /* Background Properties */
+    background-image: url(../Images/about-background.png);
+}
+
+#about-container{
+    /* Box Properties */
+    max-width: 50vw;
+    padding: 20px;
+    margin: 75px auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 25px var(--color-outerspace);
+
+    /* Colour Properties */
+    background-color: var(--color-bittersweet);
+    
+    /* Text and Font Properties */
+    font-family: Architects-Daughter;
+}
+
+h1{
+    /* Colour Proerties */
+    color: #FFFFFF;
+
+    /* Text and Font Properties */
+    font-size: 3.2em;
+    text-align: center;
+}
+
+ul{
+    /* Box Properties */
+    padding: 0;
+    
+    /* Text and Font Properties */
+    font-size: 2em;
+    text-align: center;
+    line-height: 50px;
+    text-shadow: 2px 2px #e72b2b;
+
+    /* List Properties */
+    list-style-type: none;
+}
+
+.credit{
+    /* Text and Font Properties */
+    text-decoration: none;
+
+    /* Colour Properties */
+    color: #FFFFFF;
+
+    /* Transition/Animation Properties */
+    transition: color 0.3s, font-size 0.3s;
+}
+
+.credit:hover{
+    /* Text and Font Properties */
+    font-size: 1.08em;
+
+    /* Colour Properties */
+    color: var(--color-outerspace);
+}
