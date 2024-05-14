@@ -17,9 +17,9 @@
             <p class="section_title">Popular Right Now</p>
 
             <div class="game_cards">
-                <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
-                <% } %>
+                <% for(let index = 0; index < numCards; index++) { %>
+                    <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
+                <% } %>                
             </div>
 
         </section>
@@ -28,9 +28,10 @@
             <p class="section_title">Highly Rated</p>
 
             <div class="game_cards">
-                <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
+                <% for(let index = 0; index < numCards; index++) { %>
+                    <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
+                
             </div>
         </section>
 
@@ -38,9 +39,10 @@
             <p class="section_title">Releasing Soon</p>
 
             <div class="game_cards">
-                <% for( let index = 0; index < numCards; index++ ) { %>
-                    <%- include('game-card', { cardData: gamesInfo[index%(gamesInfo.length)]}) %>
+                <% for(let index = 0; index < numCards; index++) { %>
+                    <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
+                
             </div>
         </section>
     </main>

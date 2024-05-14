@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const mongoUrl = "";
 
 mongoose
-.connect('mongodb://localhost:27017/Web-Dev-Assignment-6')
+.connect('mongodb+srv://db:1Password!@cluster0.pqphdpc.mongodb.net/data')
 .then(() => console.log('MongoDB Connected'))
 .catch((err) => console.error(err));
 
