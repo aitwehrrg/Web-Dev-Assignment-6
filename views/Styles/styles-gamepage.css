@@ -116,3 +116,22 @@ a{
     /* Box Properties */
     padding: 0.5rex 0.5rem;
 }
+
+@media only screen and (max-width: 550px){
+    #game-description{
+        /* Box Properties */
+        width: 100%;
+
+        /* Display Properties */
+        display: block;
+    }
+
+    #game-description > :nth-child(1){
+        /* Display Properties */
+        display: block;
+    }
+
+    #game-description > :nth-child(2){
+        padding: 0.5rex 0rem;
+    }
+}
