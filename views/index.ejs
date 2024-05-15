@@ -30,7 +30,7 @@
             <p class="section_title">Highly Rated</p>
 
             <div class="game_cards">
-                <% for(let index = 7, count = 0; count < numCards; index+=4) { %>
+                <% for(let index = 7, count = 0; count < numCards; index+=4, count++) { %>
                     <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
                 
