@@ -41,7 +41,7 @@
             <p class="section_title">Releasing Soon</p>
 
             <div class="game_cards">
-                <% for(let index = 5, count = 0; count < numCards; index+=3, count++) { %>
+                <% for(let index = 19, count = 0; count < numCards; index+=3, count++) { %>
                     <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
                 
