@@ -55,7 +55,9 @@ Static-File-System <--> EJS;
 ## Future Scope
 1. Addition of Account Systems
 2. URL Validation for Game Websites
-3. Search Bar
+3. Addition of a Search Bar
+4. Addition of Ranking Systems
+
 ## References
 1. [IGDB](https://www.igdb.com/)
 2. [IMDB](https://www.imdb.com/)
