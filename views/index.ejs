@@ -30,7 +30,7 @@
             <p class="section_title">Highly Rated</p>
 
             <div class="game_cards">
-                <% for(let index = numCards - 1; index > 0; index--) { %>
+                <% for(let index = 7, count = 0; count < numCards; index+=4) { %>
                     <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
                 
@@ -41,7 +41,7 @@
             <p class="section_title">Releasing Soon</p>
 
             <div class="game_cards">
-                <% for(let index = 19, count = 0; count < numCards; index+=3, count++) { %>
+                <% for(let index = 20, count = 0; count < numCards; index++, count++) { %>
                     <%- include('game-card', { cardData: gamesInfo[index % gamesInfo.length] }) %>
                 <% } %>
                 
